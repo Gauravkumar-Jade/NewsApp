@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="txt_bookmarks">Bookmarks</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sample_title">Raymond founder Vijaypat Singhania laments giving ‘everything’ to son Gautam - Hindustan Times</string>
+    <string name="read">Read</string>
+    <string name="news_article">News Article</string>
+    <string name="txt_share">Share</string>
+    <string name="title_activity_saved_news">SavedNewsActivity</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="saved_news">Saved News</string>
+</resources>
